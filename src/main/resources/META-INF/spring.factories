@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=cn.intellif.bucheng.cache.core.CacheCore,\
+cn.intellif.bucheng.cache.core.LocalCacheManager
